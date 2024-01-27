@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Wall
+  - Dummies
+  - Kusho
+  - ScreenShake
+  - Enemy_Goblin
+  - Jhin
+  - Enemylvl2
+  - Enemylvl3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Enemy
+  - Dummies
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 1st_BG
+    uniqueID: 860606031
+    locked: 0
+  - name: wall2
+    uniqueID: 464943221
+    locked: 0
+  - name: UG
+    uniqueID: 1365499355
+    locked: 0
+  - name: 2nd_BG
+    uniqueID: 4206254063
+    locked: 0
+  - name: Far_Ground
+    uniqueID: 1414546199
+    locked: 0
+  - name: Sea
+    uniqueID: 633765173
+    locked: 0
+  - name: Front
+    uniqueID: 928101931
+    locked: 0
+  - name: Wall
+    uniqueID: 2946267717
+    locked: 0
+  - name: environment
+    uniqueID: 2268081455
+    locked: 0
+  - name: Platforms
+    uniqueID: 1325609705
+    locked: 0
+  - name: Spell
+    uniqueID: 1457546963
+    locked: 0
+  - name: Player
+    uniqueID: 3778079997
+    locked: 0
+  - name: Enemy
+    uniqueID: 452232593
+    locked: 0
+  - name: collectables
+    uniqueID: 2616513983
+    locked: 0
+  - name: items
+    uniqueID: 249202343
+    locked: 0
